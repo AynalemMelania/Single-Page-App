@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mickair</string>
+    <string name="email">flights@mickair.com</string>
+    <string name="address">8 Mihai Eminescu Street "\n" Craiova, Romania 200131</string>
+    <string name="contact">Contact details</string>
+    <string name="link">www.mickair.com</string>
+    <string name="about">About Mickair</string>
+    <string name="phonenumber">+040763104561</string>
+    <string name="title">MICKAIR Airline ~ details</string>
+    <string name="details">MICKAIR Airline is a Romanian airline company headquartered in Craiova, Romania,
+        that offers flight services in different countries.
+        Mickair Airline is a subsidy of Mickair Corporation Inc. </string>
+</resources>
